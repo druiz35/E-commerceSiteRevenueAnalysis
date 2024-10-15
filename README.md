@@ -1,7 +1,9 @@
 E-Commerce Site Revenue Analysis
 ==============================
 
-Full data analysis of E-Commerce Site Revenue Dataset from Kaggle. URL of the dataset: https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce
+This is an EDA for analyzing relationships among purchase orders on a Public Dataset via visualizations and the creation of SQL scripts.
+Additionally, I created an ELT Pipeline to load and transform the data used for the analysis.
+URL of the dataset: https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce
 
 Project Organization
 ------------
